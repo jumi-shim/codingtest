@@ -42,3 +42,5 @@
 
 - [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) level2️⃣ ⭐️⭐️
   배열끼리 비교를 해야할 때 집합 연산을 이용하면 간결하게 코드를 쓸 수 있다. 주석을 쓰자!
+- [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627#) level3️⃣ ⭐️⭐️🧐  
+  시간대별로 디스크가 오는데 이 디스크를 우선순위대로 처리해야 함. 디스크의 우선순위는 뭐로 판단하지??? -> 만약에 우선순위가 같다면 ????
