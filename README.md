@@ -49,3 +49,14 @@
   여기서 그 특정 시간을 선택하는 방법을 이진탐색으로 하면 빠르게 시간을 특정할 수 있다.  
 - [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) level3️⃣ ⭐️  
   BFS를 오랜만에 정리했다! 첨엔 BFS 어려웠는데 또 여러번 하니까 쉬워짐..🙂
+  
+- [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) level2️⃣⭐️  
+  LRU만 무엇인지 알면 금방 풀 수 있는 문제였다.
+  LRU 알고리즘은 페이지 교체 알고리즘으로 가장 오랫동안 참조되지 않은 페이지를 교체하는 것. Least Recently Used Algorithm. 다른 페이지 교체 알고리즘도 정리해야겠당 ~
+
+- [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412#) level2️⃣⭐️⭐️⭐️
+  역발상? 필요… 블로그 정리했다 !
+
+- [[3차]방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) level2️⃣⭐️⭐️
+  조금 복잡하지만 풀라고 하면 풀 수 있는 문제였다.
+  음에 C도 있고 C#도 있어서 이걸 구분해야 했다. 그냥 C는 뒤에 .를 붙여서 둘을 구분을 했는데 다른 분들의 코드를 보니 #인 음을 제3의 음으로 치환하여 푼 분들이 있었다. 센스 굿
